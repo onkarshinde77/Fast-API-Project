@@ -1,6 +1,5 @@
-scikit-learn==1.3.0
+streamlit
 pandas
 numpy
-pydantic
-fastapi
-streamlit
+scikit-learn
+joblib
