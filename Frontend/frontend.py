@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://fast-api-project-krph.onrender.com"
 
 st.title("Insurence Premium Category Predictor")
 st.markdown("Enter your detainl below :")
