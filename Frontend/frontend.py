@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://fast-api-project-iugu.onrender.com"
+API_URL = "https://fast-api-project-iugu.onrender.com/predict"
 
 st.title("Insurence Premium Category Predictor")
 st.markdown("Enter your detainl below :")
