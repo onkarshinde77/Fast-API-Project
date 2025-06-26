@@ -1,4 +1,4 @@
-scickit-learn
+scikit-learn==1.3.0
 pandas
 numpy
 pydantic
