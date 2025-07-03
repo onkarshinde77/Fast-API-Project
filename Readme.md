@@ -15,7 +15,7 @@ A FastAPI-based machine learning project that predicts insurance premiums based 
 
 ## 🖼️ Screenshot
 
-![App Screenshot](Capture- FastAPI.png)
+![App Screenshot](image.png)
 ---
 
 ## 📦 Project Structure
